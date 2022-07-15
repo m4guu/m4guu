@@ -14,6 +14,8 @@
         <img  width='22px' src='https://cdn-icons-png.flaticon.com/512/733/733579.png'/>
     </a>
 </div>
+---------------------------
+
 
 
 hi, i'm krystian domzalowicz, a passionate self-taught programmer
@@ -48,9 +50,11 @@ every day I develop myself in the widely understood frontend and since a month i
 
 
 
-### 👾 What I am interested in learning at some point
+### :earth_americas: What I am interested in learning at some point
 
 <div>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" />
     <div/>
+
+<iframe src="https://giphy.com/embed/QHE5gWI0QjqF2" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2">via GIPHY</a></p>
