@@ -14,7 +14,7 @@
         <img  width='22px' src='https://cdn-icons-png.flaticon.com/512/733/733579.png'/>
     </a>
 </div>
----------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26,11 +26,13 @@ my adventure with coding began in high school, there I attended a major with an 
 
 #now
 
-i'm currently in the last semester of Automation and Robotics at Gdansk University of Technology. During my studies and exactly in October 2021 I started programming in java script
+i'm currently in the last semester of Automation and Robotics at Gdansk University of Technology. During my studies and exactly in October 2021 I started programming in java script:mortar_board::mortar_board::mortar_board:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="500" height="320" />every day I develop myself in the widely understood frontend and since 
 
 a month in backend. I quickly assimilate new knowledge, which is reflected in my projects
+
+
 
 🛠  **Technologies and tools**
 
