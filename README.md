@@ -14,9 +14,7 @@
         <img  width='22px' src='https://cdn-icons-png.flaticon.com/512/733/733579.png'/>
     </a>
 </div>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+\---------------------------------------------------------------------------------------------------------------------------------
 
 hi, i'm krystian domzalowicz, a passionate self-taught programmer
 
@@ -28,9 +26,9 @@ my adventure with coding began in high school, there I attended a major with an 
 
 i'm currently in the last semester of Automation and Robotics at Gdansk University of Technology. During my studies and exactly in October 2021 I started programming in java script:mortar_board::mortar_board::mortar_board:
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="500" height="320" />every day I develop myself in the widely understood frontend and since 
+\---------------------------------------------------------------------------------------------------------------------------------
 
-a month in backend. I quickly assimilate new knowledge, which is reflected in my projects
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="500" height="320" />every day I develop myself in the widely understood frontend and since a month in backend. I quickly assimilate new knowledge, which is reflected in my projects
 
 
 
@@ -49,7 +47,6 @@ a month in backend. I quickly assimilate new knowledge, which is reflected in my
      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS logo" title="SCSS" />
      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components logo" title="Styled Components" />
      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify logo" title="Netlify" />
-     <img src="	https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" />
 </div>
 
 **:earth_americas: What I am interested in learning at some point**
