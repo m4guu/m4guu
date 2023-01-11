@@ -28,7 +28,7 @@ i'm currently in the last semester of Automation and Robotics at Gdansk Universi
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="500" height="320" />every day I develop myself in the widely understood frontend and since a month in backend. I quickly assimilate new knowledge, which is reflected in my projects
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="500" height="320" />every day I develop myself in the widely understood frontend and backend. I quickly assimilate new knowledge, which is reflected in my projects
 
 
 
