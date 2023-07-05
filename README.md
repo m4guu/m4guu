@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.facebook.com/krystian.domzalowicz/">m</a> .
+    <a href="https://www.facebook.com/krystian.domzalowicz/">me</a> .
     <a href="https://www.linkedin.com/in/krystian-dom%C5%BCa%C5%82owicz-7a1905242">likedin</a> .
     <a href="https://www.instagram.com/krystiandomzalowicz">instagram</a> .
   </samp>
