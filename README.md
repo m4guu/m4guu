@@ -1,19 +1,12 @@
 ### hey there
 
-<div>
-    <a href='https://www.facebook.com/krystian.domzalowicz/'>
-        <img  width='22px' src='https://cdn-icons-png.flaticon.com/512/733/733547.png'/>
-    </a>
-     <a  href='https://www.instagram.com/krystiandomzalowicz/'>
-        <img  width='22px'src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png'/>
-    </a>
-     <a  href='https://www.twitch.tv/krystian0_'>
-        <img  width='22px' src='https://cdn-icons-png.flaticon.com/512/2111/2111668.png'/>
-    </a>
-     <a  href='https://twitter.com/'>
-        <img  width='22px' src='https://cdn-icons-png.flaticon.com/512/733/733579.png'/>
-    </a>
-</div>
+<p align="center">
+  <samp>
+    <a href="https://www.facebook.com/krystian.domzalowicz/">m</a> .
+    <a href="https://www.linkedin.com/in/krystian-dom%C5%BCa%C5%82owicz-7a1905242">likedin</a> .
+    <a href="https://www.instagram.com/krystiandomzalowicz">instagram</a> .
+  </samp>
+</p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 hi, i'm krystian domzalowicz, a passionate self-taught programmer
@@ -24,7 +17,7 @@ my adventure with coding began in high school, there I attended a major with an 
 
 #now
 
-i'm currently in the last semester of Automation and Robotics at Gdansk University of Technology. During my studies and exactly in October 2021 I started programming in java script:mortar_board::mortar_board::mortar_board:
+i'm currently in the second semester of my master's degree in Automation and Robotics at Gdansk University of Technology. During my studies and exactly in October 2021 I started programming in java script:mortar_board::mortar_board::mortar_board:
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
